@@ -45,6 +45,9 @@ h1{
     margin-bottom: 1em;
     text-align: right;
 }
+#date i{
+    font-size: 100%;
+}
 #article p{
     color: #465065;
     font-weight: 300;
